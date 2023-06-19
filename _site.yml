@@ -1,9 +1,0 @@
-name: "fluffysciences"
-output_dir: docs
-navbar: 
-  title: "Fluffy Sciences on Git Pages"
-  left: 
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
