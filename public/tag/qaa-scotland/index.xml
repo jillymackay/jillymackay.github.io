@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QAA Scotland | Jilly MacKay</title>
+    <link>/tag/qaa-scotland/</link>
+      <atom:link href="/tag/qaa-scotland/index.xml" rel="self" type="application/rss+xml" />
+    <description>QAA Scotland</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>QAA Scotland</title>
+      <link>/tag/qaa-scotland/</link>
+    </image>
+    
+    <item>
+      <title>Enhancement Themes Collaborative Cluster Widening Participation with Lecture Recording</title>
+      <link>/project/widening-participation-with-lecture-recording/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/project/widening-participation-with-lecture-recording/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
