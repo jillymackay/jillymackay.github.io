@@ -1,8 +1,0 @@
-rmarkdown::render_site()
-rmarkdown::render_site()
-rmarkdown::render_site()
-rmarkdown::render_site()
-rmarkdown::render_site()
-rmarkdown::render_site()
-install.packages("blogdown")
-install.packages("blogdown")
