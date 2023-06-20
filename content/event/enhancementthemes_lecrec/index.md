@@ -13,7 +13,7 @@ event: QAA Scotland Enhancement Themes Webinar
 event_url: https://www.youtube.com/watch?v=7ng7JvlViGA
 featured: false
 location: Remote / Edinburgh
-tags: [QA_Data]
+tags: ["QA Data"]
 title: How do we really record lectures? 
 url_video: "https://www.youtube.com/watch?v=7ng7JvlViGA"
 ---

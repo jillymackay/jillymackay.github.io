@@ -2,7 +2,7 @@
 title: Enhancement Themes Collaborative Cluster Widening Participation with Lecture Recording
 external_link: https://www.enhancementthemes.ac.uk/explore-the-enhancement-themes/evidence-for-enhancement/student-engagement-and-demographics/widening-participation-with-lecture-recording
 author: Jilly MacKay
-date: '2023-06-20'
+date: '2023-06-19'
 slug: widening-participation-with-lecture-recording
 categories: []
 tags:

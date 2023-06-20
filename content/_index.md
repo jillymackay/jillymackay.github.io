@@ -104,7 +104,7 @@ sections:
     filters:
       featured_only: true
       folders:
-      - publication
+      - resources
     title: OERs / Teaching
   design:
     columns: "2"
@@ -160,6 +160,8 @@ sections:
 - block: tag_cloud
   content:
     title: What do I talk about?
+  taxonomy: tags
+  count: 20
   design:
     columns: "2"
 - block: contact
