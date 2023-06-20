@@ -4,7 +4,7 @@ author: Jilly MacKay
 date: '2023-06-20'
 slug: quality-assurance-of-teaching-data
 categories: []
-tags: [QA Data, "Research Methods"]
+tags: ["QA Data", "Research Methods"]
 subtitle: 'The value of using open science approaches in operational data'
 summary: 'Education institutions collect operational data at a phenomenal rate. While researchers are becoming more and more concerned by ensuring we take a responsible, ethical and repeatable approach to data analysis for research, often the same cannot be said for operational data. At R(D)SVS we have instituted a QA Data Officer role to support educators to make the best use of teaching data'
 authors: []

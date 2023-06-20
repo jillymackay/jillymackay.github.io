@@ -18,7 +18,7 @@ options(
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'
   blogdown.method = 'markdown',
   blogdown.author = "Jilly MacKay",
-  blogdown.ext = ".Rmd",
+  blogdown.ext = ".md",
   blogdown.subdir = "post"
 )
 
