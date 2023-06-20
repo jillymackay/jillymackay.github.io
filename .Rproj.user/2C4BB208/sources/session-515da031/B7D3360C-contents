@@ -1,0 +1,23 @@
+---
+title: "index"
+author: "Jilly MacKay"
+date: "2023-06-19"
+output: html_document
+---
+
+# Howdy
+
+Hi there - welcome to the new version of my github pages. I've decided I want to work more fully on open source approaches to websites. 
+
+
+Please expect a great deal of mess while this is starting up.
+
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
