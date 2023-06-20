@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>R @ R(D)SVS</title>
-      <link>/resources/r-r-d-svs/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/resources/r-r-d-svs/</guid>
-      <description>&lt;p&gt;Please feel free to use and adapt this resource as you see fit!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>10 simple rules</title>
       <link>/talk/10-simple-rules/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
@@ -86,6 +77,14 @@
       <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/</guid>
       <description></description>
     </item>
     

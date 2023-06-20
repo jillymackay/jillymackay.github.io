@@ -1,5 +1,5 @@
 ---
-bio: I'm mainly interested in exploring the application of different research methodologies to STEMM teaching, including open science approaches, the interface between qualitative and quantitative research, and selecting the right methodology for the right research question
+bio: I'm mainly interested in exploring the application of different research methodologies to STEMM teaching, including open science approaches, the interface between qualitative and quantitative research, and selecting the right methodology for the right research question.
 education:
   courses:
   - course: PhD Characterising personality traits in cattle using biotelemetry systems
@@ -39,5 +39,10 @@ superuser: true
 title: Jilly MacKay
 ---
 
-Jilly MacKay is a Senior Lecturer in Veterinary Science Education at the Royal (Dick) School of Veterinary Studies. She is mainly interested in research methodology an applies this to the field of STEMM education and, occasionally, human-animal-interactions. Jill is interested in the process of science and how we attempt to quantify big, unmeasurable things like 'personality', 'learning' and 'satisfaction'. She is passionate about open science, open educational resources, and public engagement with science. When she's not working, she's probably crafting. 
+
+I am a Senior Lecturer in Veterinary Science Education at the Royal (Dick) School of Veterinary Studies. I belong to a lot of categories (in alphabetical order): Academic, Crafter, Feminist, Interdisciplinary Scientist, LGBT Ally, Mother, Writer . . . there's probably more. 
+
+I began my academic career in veterinary sciences studying animal personality, but I was always fascinated by research methodologies. How can we quantify non-existent things like 'personality', 'welfare' or 'student satisfaction'? I barged my way into educational research and started really playing about with research methods. I employ both qualitative and quantitative methodologies in my research, and I'm particularly interested in assessment, the open science framework, and effective human behavioural change. 
+
+I have very recently become passionate about academic motherhood, for what are probably obvious reasons. I find I have far less time for hobbies than I used to. 
 {style="text-align: justify;"}

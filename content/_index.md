@@ -1,20 +1,20 @@
 ---
-date: "2022-10-24"
+date: "2023-06-22"
 sections:
 - block: hero
   content:
     image:
       filename: hero-fs.png
     text: |-
-      Welcome to Fluffy Sciences, Jill MacKay's corner of the internet.
-
-      You can find out more about me, my work, and the resources I make available to try and make life a little easier.
-
-    title: Jilly MacKay / FluffySciences
+      Welcome to Fluffy Sciences, my little corner of the internet. 
+      
+      This page is set up to showcase some of my work on research methodology and science education. The 'Fluffy Sciences' name comes from my history working in veterinary sciences. 
+      
+    title: Jilly MacKay 
   design:
     background:
       gradient_end: '#a3c3b2'
-      gradient_start: '#86a193'
+      gradient_start: '#597366'
       text_color_light: true
 - block: about.biography
   content:
@@ -60,7 +60,7 @@ sections:
   content:
     title: Research
     subtitle: A collection of projects that I think are worth sharing
-    text: You can filter the projects by clicking the buttons below
+    text: You can look for something specific by using the buttons below, or see all [projects here](./project). 
     filters:
         # Folders to display content from
       folders:
@@ -106,6 +106,7 @@ sections:
       folders:
       - resources
     title: OERs / Teaching
+    text: I have a number of teaching resources which are available for others to use as they see fit. Some of the highlights are here or [you can look through the whole list here](./resources)
   design:
     columns: "2"
     view: card
@@ -130,7 +131,7 @@ sections:
     filters:
       folders:
       - event
-    title: Public Engagement
+    title: Talks
   design:
     columns: "2"
     view: compact
@@ -171,13 +172,13 @@ sections:
     - icon: twitter
       icon_pack: fab
       link: https://twitter.com/jilly_mackay
-      name: DM Me
+      name: I'm on Twitter (for my sins)
     - icon: mastodon
       icon_pack: fab
       link: https://mastodon.scot/@jillymackay
       name: I'm on Mastodon
     office_hours:
-      Please note, I work condensed hours Monday-Thursday
+      Please note, I work condensed hours
     text: The best way to contact me is to reach out via my Edinburgh email address, but you may also get a good response on Twitter or Mastodon!
     title: Contact
   design:
