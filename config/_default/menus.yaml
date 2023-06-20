@@ -14,10 +14,10 @@ main:
     url: '#oers'
     weight: 30
   - name: Books / Publications
-    url: '#pubs'
+    url: '#publication'
     weight: 40
   - name: Public Engagement
-    url: '#event'
+    url: '#talk'
     weight: 50
   - name: Blog
     url: '#post'
