@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Jilly MacKay</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>wp | Jilly MacKay</title>
+    <link>/tag/wp/</link>
+      <atom:link href="/tag/wp/index.xml" rel="self" type="application/rss+xml" />
+    <description>wp</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>wp</title>
+      <link>/tag/wp/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/project/widening-participation-with-lecture-recording/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Quality Assurance of Teaching Data</title>
-      <link>/project/quality-assurance-of-teaching-data/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/project/quality-assurance-of-teaching-data/</guid>
-      <description>&lt;p&gt;It is becoming easier and easier for education organisations to collect vast amounts of teaching-related data.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

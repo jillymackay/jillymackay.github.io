@@ -21,34 +21,84 @@ sections:
     title: Biography
     username: admin
   id: about
-- block: collection
+- block: experience
   content:
     date_format: Jan 2006
     items:
     - company: University of Edinburgh
-      company_logo: org-gc
       company_url: "www.ed.ac.uk"
       date_end: ""
       date_start: "2016-06-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: Edinburgh
+          * Quality Assurance for teaching-related data
+          * Developing research competencies across the school
+          * Teaching research methodology at UG and PG
+      location: Edinburgh, Scotland
       title: Senior Lecturer (Veterinary Science Education)
     - company: SRUC
-      company_logo: org-x
       company_url: ""
-      date_end: "2016-05-30"
+      date_end: "2016-06-01"
       date_start: "2013-01-01"
-      description: MSc Coordinator ( International Animal Welfare Ethics and Law)
+      description: |2-
+          MSc Coordinator
+          
+          * (International Animal Welfare Ethics and Law)
+          
+          Lecturer / Course Organiser
+          
+          * (Animal Behaviour and Welfare 3rd Year)
+          * (Animal Welfare 2nd Year)
       location: Edinburgh, Scotland
       title: Lecturer
     title: Work
   design:
     columns: "2"
+- block: portfolio
+  id: research
+  content:
+    title: Research
+    subtitle: A collection of projects that I think are worth sharing
+    text: You can filter the projects by clicking the buttons below
+    filters:
+        # Folders to display content from
+      folders:
+        - project
+        # Only show content with these tags
+      tags: []
+        # Exclude content with these tags
+      exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+      kinds:
+        - page
+    # Field to sort by, such as Date or Title
+    sort_by: 'Date'
+    sort_ascending: false
+    # Default portfolio filter button
+    # 0 corresponds to the first button below and so on
+    # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+    default_button_index: 0
+    # Filter button toolbar (optional).
+    # Add or remove as many buttons as you like.
+    # To show all content, set `tag` to "*".
+    # To filter by a specific tag, set `tag` to an existing tag name.
+    # To remove the button toolbar, delete the entire `buttons` block.
+    buttons:
+      - name: All
+        tag: '*'
+      - name: Research Methods
+        tag: research_methods
+      - name: Widening Participation
+        tag: wp
+  design:
+    # See Page Builder docs for all section customization options.
+    # Choose how many columns the section has. Valid values: '1' or '2'.
+    columns: '1'
+    # Choose a listing view
+    view: showcase
+    # For Showcase view, flip alternate rows?
+    flip_alt_rows: true
 - block: collection
   content:
     filters:
