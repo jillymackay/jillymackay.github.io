@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jill MacKays professional website'
-    twitter: 'jillymackay'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jilly MacKay. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -56,8 +56,8 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '15:04'
-  address_format: en-gb
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/jillymackay/jillymackay.github.io'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
@@ -114,5 +114,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-
